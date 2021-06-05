@@ -32,15 +32,15 @@ CSS Syntax
     background-color: lightblue;
   }
 
-  h1 {
-    color: white;
-    text-align: center;
-  }
+    h1 {
+      color: white;
+      text-align: center;
+    }
 
-  p {
-    font-family: verdana;
-    font-size: 20px;
-  }
+    p {
+      font-family: verdana;
+      font-size: 20px;
+    }
   
   
 [BOOTSTRAP 4 DOC.]{https://getbootstrap.com/docs/4.6/getting-started/introduction/}
