@@ -40,6 +40,7 @@ CSS Syntax
       font-size: 20px;
     }
   
-  <hr/>
-[BOOTSTRAP 4 DOC](https://getbootstrap.com/docs/4.6/getting-started/introduction/)
+<hr/>
+  
+  [BOOTSTRAP 4 DOC](https://getbootstrap.com/docs/4.6/getting-started/introduction/)
 
