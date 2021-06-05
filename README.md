@@ -15,8 +15,7 @@
   -lightbox jquery plugins 
   -slick slider plugin
   
-  ```
-  <hr/>
+  ```  
   
   ```
   HTML Syntax
@@ -34,6 +33,6 @@
     </html>
   
  <hr/>
-  
+  ```
 [BOOTSTRAP 4 DOC.]{https://getbootstrap.com/docs/4.6/getting-started/introduction/}
-```
+
