@@ -6,7 +6,7 @@
  Glozzom project is a website design projects which is done by HTML, CSS, BOOTSTRAP ,JS.
  
   <hr/>
- ```
+
   Plugins:
   
   -jquery-3.5.1-slim.js
@@ -15,10 +15,9 @@
   -lightbox jquery plugins 
   -slick slider plugin
   
-  ```  
-  
-  ```
+ <hr/>
   HTML Syntax
+    ```
      <!DOCTYPE html>
     <html>
     <head>
