@@ -9,7 +9,7 @@
 
 HTML Syntax
   
-    ```
+    
     <!DOCTYPE html>
     <html>
     <head>
@@ -22,7 +22,7 @@ HTML Syntax
 
     </body>
     </html>
-    ```
+    
  <hr/>
 
 [BOOTSTRAP 4 DOC.]{https://getbootstrap.com/docs/4.6/getting-started/introduction/}
