@@ -7,13 +7,6 @@
  
   <hr/>
 
-  Plugins:
-  
-  -jquery-3.5.1-slim.js
-  -popper.js
-  -bootstrap.min.js
-  -lightbox jquery plugins 
-  -slick slider plugin
   
  <hr/>
   HTML Syntax
@@ -32,6 +25,6 @@
     </html>
   
  <hr/>
-  ```
+
 [BOOTSTRAP 4 DOC.]{https://getbootstrap.com/docs/4.6/getting-started/introduction/}
 
