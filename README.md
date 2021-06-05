@@ -3,7 +3,7 @@
 
 <feat> *Glozzom Website Theme Design*
   
- Glozzom project is a website design projects which is done by HTML, CSS, BOOTSTRAP ,JS.
+ _Glozzom_ project is a website design project which is done by HTML, CSS, BOOTSTRAP ,JS.
  
   <hr/>
 
