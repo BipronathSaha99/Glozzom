@@ -26,6 +26,7 @@ HTML Syntax
  <hr/>
   
 CSS Syntax
+  <style>
     body {
     background-color: lightblue;
   }
@@ -39,7 +40,7 @@ CSS Syntax
     font-family: verdana;
     font-size: 20px;
   }
-
+  </style>
   
 [BOOTSTRAP 4 DOC.]{https://getbootstrap.com/docs/4.6/getting-started/introduction/}
 
