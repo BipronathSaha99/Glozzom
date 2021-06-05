@@ -7,11 +7,10 @@
  
   <hr/>
 
+HTML Syntax
   
- <hr/>
-  HTML Syntax
     ```
-     <!DOCTYPE html>
+    <!DOCTYPE html>
     <html>
     <head>
     <title>Page Title</title>
@@ -23,7 +22,7 @@
 
     </body>
     </html>
-  
+    ```
  <hr/>
 
 [BOOTSTRAP 4 DOC.]{https://getbootstrap.com/docs/4.6/getting-started/introduction/}
