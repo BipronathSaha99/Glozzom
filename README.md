@@ -3,7 +3,7 @@
 
 <feat> *Glozzom Website Theme Design*
   
- _Glozzom_ project is a website design project which is done by HTML, CSS, BOOTSTRAP ,JS.
+ _Glozzom_ project is a website design project which is done by HTML, CSS, BOOTSTRAP4, JS.
  
   <hr/>
 
@@ -41,5 +41,5 @@ CSS Syntax
     }
   
   
-[BOOTSTRAP 4 DOC.]{https://getbootstrap.com/docs/4.6/getting-started/introduction/}
+[BOOTSTRAP 4 DOC](https://getbootstrap.com/docs/4.6/getting-started/introduction/)
 
