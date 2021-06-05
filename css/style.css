@@ -1,0 +1,198 @@
+/*google font*/
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto&display=swap');
+
+/*common style*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    color: #292929;
+}
+
+h1,h2,h3,h4,h5,h6,p{
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+a{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+
+/*navbar design*/
+.navbar{
+    border-bottom: 3px solid #008080;
+}
+
+/*showcase section starts*/
+.carousel-item img{
+    width: 100%;
+    height: 100%;
+}
+
+.carousel-caption h5{
+    font-size: 50px !important;
+}
+
+/*get started section starts*/
+#get-start{
+    position: relative;
+    background: url('/assets/bg1.jpeg') no-repeat top center;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 250px;
+}
+
+.get-overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: rgba(0,0,0,0.7);
+    width: 100%;
+    height: 100%;
+    min-height: 250px;
+}
+
+.getStart{
+    margin-top: 3rem !important;
+    padding-top: 2rem !important;
+}
+
+.icon-style{
+    color: red;
+}
+
+/*gallery section starts*/
+#gallery img{
+    min-height: 250px;
+}
+
+/*footer section starts*/
+footer{
+    background-color: #000;
+}
+
+/*about us page design*/
+#about-header{
+    position: relative;
+    background: url('/assets/image1.jpeg') no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 250px;
+}
+
+.about-overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.6);
+    min-height: 250px;
+    
+}
+
+#about-main p{
+    font-size: 18px !important;
+}
+
+
+#about-main img{
+    width: 350px;
+    height: 350px;
+}
+
+#testimonial .blockquote-footer{
+    background-color: #fff;
+    color: #333;
+    font-style: italic;
+}
+
+#testimonial .slick-prev::before{
+        color: #252525;
+}
+
+#testimonial .slick-next::before{
+    color: #252525;
+}
+/*contact page design*/
+
+#contact-header{
+    position: relative;
+    background: url('/assets/image3.jpeg') no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 250px;
+}
+
+.contact-overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.6);
+    min-height: 250px;
+    
+}
+#contact .card{
+    min-height: 420px;
+}
+/*blog page design*/
+
+#blog-header{
+    position: relative;
+    background: url('/assets/image2.jpeg') no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 250px;
+}
+
+.blog-overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.6);
+    min-height: 250px;
+    
+}
+#blog .card img{
+    min-height: 250px;
+}
+/*service  page design*/
+#service-header{
+    position: relative;
+    background: url('/assets/image2.jpeg') no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 250px;
+}
+
+.service-overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.6);
+    min-height: 250px;
+    
+}
+
+#service-plan .card p{
+    font-size: 16px;
+}
+
+#faq .accordion .card a:hover{
+    text-decoration: underline;
+}
